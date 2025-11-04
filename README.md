@@ -62,9 +62,8 @@ Essa funcionalidade pode ser aplicada em **análise de feedbacks de clientes**, 
 
 ---
 
+---
 ## Conclusão
-O laboratório demonstrou como os serviços de **Azure Speech Studio** e **Azure Language Studio** aplicam recursos de  
-**Inteligência Artificial** para transformar fala e texto em dados analisáveis.  
-Essas tecnologias são fundamentais para criar **assistentes virtuais**, **chatbots inteligentes** e **sistemas de análise de sentimentos**,  
-conectando a IA com aplicações reais de negócios e análise de dados.
-
+Este laboratório permitiu compreender como os serviços de Inteligência Artificial da Microsoft Azure podem ser utilizados para processar fala e linguagem natural.  
+O **Speech Studio** mostrou como converter texto em fala humanizada, enquanto o **Language Studio** demonstrou a capacidade de analisar sentimentos e extrair insights de textos.  
+Esses recursos são fundamentais para aplicações modernas em chatbots, assistentes virtuais e análise de feedbacks de clientes.
