@@ -67,3 +67,5 @@ Essa funcionalidade pode ser aplicada em **análise de feedbacks de clientes**, 
 Este laboratório permitiu compreender como os serviços de Inteligência Artificial da Microsoft Azure podem ser utilizados para processar fala e linguagem natural.  
 O **Speech Studio** mostrou como converter texto em fala humanizada, enquanto o **Language Studio** demonstrou a capacidade de analisar sentimentos e extrair insights de textos.  
 Esses recursos são fundamentais para aplicações modernas em chatbots, assistentes virtuais e análise de feedbacks de clientes.
+
+🔗 Curso: [Seus Primeiros Passos com IA - DIO + Microsoft](https://web.dio.me/)
